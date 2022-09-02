@@ -17,3 +17,9 @@ https://nimdati.com/2021/01/08/openhab-3-habpanel-set-default/
 
 Erst Binding installieren und openHAB neu starten.
 Wichtig, da sonnst Kommunikation Error im Bindig
+
+
+# CustomWidget
+
+https://www.youtube.com/watch?v=2MxvaIgU73I
+
