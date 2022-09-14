@@ -23,3 +23,7 @@ Wichtig, da sonnst Kommunikation Error im Bindig
 
 https://www.youtube.com/watch?v=2MxvaIgU73I
 
+# Datenbank einrichtung
+hier findest du die beschreibung:
+https://schweigerstechblog.de/openhab-2-mariadb-persistence-mit-synology-nas/
+
